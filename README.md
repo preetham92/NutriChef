@@ -1,1 +1,1 @@
-# NutriChef
+# mini-project
